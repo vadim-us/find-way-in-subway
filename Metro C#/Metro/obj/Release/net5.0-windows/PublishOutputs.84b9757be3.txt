@@ -1,0 +1,5 @@
+E:\!_вело\Metro.exe
+E:\!_вело\Metro.dll
+E:\!_вело\Metro.deps.json
+E:\!_вело\Metro.runtimeconfig.json
+E:\!_вело\Metro.pdb
